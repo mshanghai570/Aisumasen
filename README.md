@@ -1,2 +1,2 @@
 # Aisumasen
-A feature-rich Reddit iOS app
+A feature-rich Reddit app for iOS

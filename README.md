@@ -10,9 +10,6 @@ A custom, underground Reddit client for iOS inspired by John Lennon's "Mind Game
 - Custom color palette based on classic album artwork
 - Native iOS performance
 
-## Inspiration
-Named after the John Lennon song "Aisumasen (I'm Sorry)" from the "Mind Games" album, this app transforms a basic utility into a genuine passion project with a story behind it.
-
 ## Screenshots
 *Coming soon*
 
